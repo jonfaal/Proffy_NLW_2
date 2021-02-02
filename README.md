@@ -23,7 +23,7 @@ Projeto de plataforma de ensino desenvolvido durante a Next Level Week em agosto
 
 ### 📝  Como visualizar:
 >##### 1. Baixe o [.zip](https://github.com/jonfaal/Proffy_NLW_20.08/archive/main.zip) com os arquivos do projeto.
->##### 2. Com o NPM instalado, abra o terminal na pasta com os arquivos.
+>##### 2. Com o [NPM](https://www.npmjs.com/get-npm) instalado, abra o terminal na pasta com os arquivos.
 >##### 3. Execute:
 >     npm run dev
 >##### 4. Acesse:
