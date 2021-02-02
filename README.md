@@ -1,6 +1,8 @@
 # Proffy NLW
 
-Projeto de plataforma de ensino desenvolvido durante a Next Level Week em agosto de 2020
+Projeto de plataforma de ensino desenvolvido durante a Next Level Week em agosto de 2020.
+
+![utiliz](https://raw.githubusercontent.com/jonfaal/Proffy_NLW_20.08/main/_github/Proffy-01.png)
 
 ## ⚙️ Ferramentas Utilizadas:
 - VS Code
